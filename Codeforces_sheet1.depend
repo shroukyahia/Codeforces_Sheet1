@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611316702 source:c:\users\egypt1\desktop\hellocs\codeforces_sheet1\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+
